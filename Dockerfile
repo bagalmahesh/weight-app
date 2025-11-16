@@ -5,5 +5,5 @@ FROM nginx:alpine
 COPY . /usr/share/nginx/html
 
 # Expose port 80 for web access
-EXPOSE 8080
+EXPOSE 8090
 
